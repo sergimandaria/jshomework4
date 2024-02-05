@@ -1,0 +1,36 @@
+
+
+.parent {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    background-color: rgb(62, 62, 66);
+    justify-content: space-between;
+    align-items: center;
+    border: 5px solid rgb(28, 27, 27);
+    border-radius: 20px;
+    width: 350px;
+    padding: 30px;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.child {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.jsbt {
+    margin: 0 auto;
+}
+
+.maincontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.child3 {
+    font-size: 40px;
+}
